@@ -1,5 +1,5 @@
 # EquCab3-Iso-seq-BALF-paper
-Code for Long-read isoform sequencing in Horse BALF tissue  
+Code for analysis of equine BALF cells IsoSeq long read sequencing data  
 ## 1. SMRT Analysis
 
 The input to the Iso-Seq SMRT (v10.1) analysis was the HiFi (CCS) reads and the output was high-quality, full-length transcript sequences (`hq_transcripts.fasta`). The [Iso-Seq SMRTLink Analysis Report PDF can be found here](https://github.com/vetsuisse-unibe/EquCab3-Iso-seq-BALF-paper/blob/main/PB_12_IsoSeq_runQC%26CCSreport_May2021_NGSP.pdfhttps://github.com/vetsuisse-unibe/EquCab3-Iso-seq-BALF-paper/blob/main/PB_12_IsoSeq_runQC%26CCSreport_May2021_NGSP.pdf)
