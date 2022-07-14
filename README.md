@@ -42,5 +42,6 @@ python sqanti3_RulesFilter.py \
                  hq_ncbi.collapsed.filtered_classification.txt \
                  hq_ncbi.collapsed.filtered_corrected.fasta \
                  hq_ncbi.collapsed.filtered_corrected.gtf
+                  -a 0.86 -m 100 -r 8 
 ```
 [The final filtered transcriptome can be found here](https://github.com/vetsuisse-unibe/EquCab3-Iso-seq-BALF-paper/blob/main/annotated.PacBio.transcriptome.based.on.EquCab3.NCBI.v103.gtf)
